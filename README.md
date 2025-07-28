@@ -1,17 +1,25 @@
 # SachaTestShowcase
-Showcase for my testing workflow and skills.
+#Showcase for my testing workflow and skills.
 
-Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks :
+##Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks :
 <img width="1864" height="787" alt="Workflow" src="https://github.com/user-attachments/assets/9157b099-7876-405c-a33a-410acc6fd68d" />
 
-This is the Board, where all the relevant bugs, tasks and feedbacks are displayed : 
+
+
+###This is the Board, where all the relevant bugs, tasks and feedbacks are displayed : 
 <img width="1706" height="1021" alt="Board" src="https://github.com/user-attachments/assets/584727f0-ee78-4385-a163-ea1c2258378e" />
+
+
 
 You can use filters to only show bugs, tasks or feedbacks :
 ![Filters](https://github.com/user-attachments/assets/34a5b377-bb4f-4b06-bb74-1720b59cdda3)
 
+
+
 All the different fields the QA testers have to fill to enter a bug : 
 ![Fields](https://github.com/user-attachments/assets/5f4d05c3-6cae-43b4-ac6d-3a0456237728)
+
+
 
 A detailed template for entering bugs, useful for new testers that might join the project later as we scaled it up : 
 <img width="1156" height="1008" alt="Template1" src="https://github.com/user-attachments/assets/74b2a852-0526-40fa-9836-19eabb878d17" />
