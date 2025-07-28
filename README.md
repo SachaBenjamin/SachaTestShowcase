@@ -32,8 +32,14 @@ All the different fields the QA testers have to fill to enter a bug :
 
 
 # Bug Template 
+
 A detailed template for entering bugs, useful for new testers that might join the project later as we scaled it up : 
 
 <img width="1156" height="1008" alt="Template1" src="https://github.com/user-attachments/assets/74b2a852-0526-40fa-9836-19eabb878d17" />
 <img width="1176" height="1030" alt="Template2 png" src="https://github.com/user-attachments/assets/fad71a6c-2ff8-4783-8ede-887cb09b6345" />
 <img width="1183" height="1033" alt="Template3 png" src="https://github.com/user-attachments/assets/8a9303db-df81-4213-b5c1-b052a08c2409" />
+
+# Smoketest Template
+
+The Smoketest template I have build for testing the build before pushing a major update. Every single action you can do in the game is listed with a status, then if failed a bug is added on excel that redirects to the Jira for clear visibility. 
+
