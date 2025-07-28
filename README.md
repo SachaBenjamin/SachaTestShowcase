@@ -1,4 +1,4 @@
-# Showcase for my testing workflow and skills
+# Showcase for Giftogames Workflow
 
 # Workflow 
 
