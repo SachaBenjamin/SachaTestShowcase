@@ -1,5 +1,7 @@
 # Showcase for Giftogames Workflow
 
+I built this workflow and bug template from scratch for Giftogames’ QA pipeline. I've mainly used Jira and Google Sheet to set it up.
+
 # Workflow 
 
 Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks that the developers use on their day to day tasks.
