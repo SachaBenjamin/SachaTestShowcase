@@ -45,9 +45,12 @@ A detailed template for entering bugs, useful for new testers that might join th
 
 The Smoketest template I have build for testing the build before pushing a major update. Every single action you can do in the game is listed with a status, then if failed a bug is added on excel that redirects to the Jira for clear visibility. Here is some part of the smoke test (It would be too long to list everything) : 
 
-<img width="1189" height="769" alt="Smoketest1" src="https://github.com/user-attachments/assets/a71cf98b-2ff4-4623-982c-6f22b653eece" />
+<img width="971" height="824" alt="2025-07-28 19_20_25-Smoketest 1 1 0(11) xlsx - Google Sheets - Brave" src="https://github.com/user-attachments/assets/162a3a98-0412-46ee-be7f-39d3a059de7f" />
 
-<img width="707" height="840" alt="Smoketest2" src="https://github.com/user-attachments/assets/370b6635-7175-4670-8e02-46225048d1b5" />
+<img width="940" height="826" alt="2025-07-28 19_21_02-Smoketest 1 1 0(11) xlsx - Google Sheets - Brave" src="https://github.com/user-attachments/assets/a1b90f4f-2379-466a-b8d7-e9fad0735c7e" />
+
+
+
 
 
 
