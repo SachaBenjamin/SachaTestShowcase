@@ -47,7 +47,7 @@ The Smoketest template I have build for testing the build before pushing a major
 
 <img width="971" height="824" alt="2025-07-28 19_20_25-Smoketest 1 1 0(11) xlsx - Google Sheets - Brave" src="https://github.com/user-attachments/assets/162a3a98-0412-46ee-be7f-39d3a059de7f" />
 
-<img width="940" height="826" alt="2025-07-28 19_21_02-Smoketest 1 1 0(11) xlsx - Google Sheets - Brave" src="https://github.com/user-attachments/assets/a1b90f4f-2379-466a-b8d7-e9fad0735c7e" />
+<img width="971" height="824" alt="2025-07-28 19_21_55-Smoketest 1 1 0(11) xlsx - Google Sheets - Brave" src="https://github.com/user-attachments/assets/87beda5c-0801-4855-aef3-3d9e4d08b45e" />
 
 
 
