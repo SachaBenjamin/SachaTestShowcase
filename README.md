@@ -19,13 +19,13 @@ You can use filters to only show bugs, tasks or feedbacks :
 
 
 
-# Bug Fields and Templates
+# Bug Fields
 
 All the different fields the QA testers have to fill to enter a bug : 
 ![Fields](https://github.com/user-attachments/assets/5f4d05c3-6cae-43b4-ac6d-3a0456237728)
 
 
-
+# Bug Template 
 A detailed template for entering bugs, useful for new testers that might join the project later as we scaled it up : 
 <img width="1156" height="1008" alt="Template1" src="https://github.com/user-attachments/assets/74b2a852-0526-40fa-9836-19eabb878d17" />
 <img width="1176" height="1030" alt="Template2 png" src="https://github.com/user-attachments/assets/fad71a6c-2ff8-4783-8ede-887cb09b6345" />
