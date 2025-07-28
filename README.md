@@ -1,12 +1,12 @@
 # SachaTestShowcase
-#Showcase for my testing workflow and skills.
+# Showcase for my testing workflow and skills.
 
-##Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks :
+## Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks :
 <img width="1864" height="787" alt="Workflow" src="https://github.com/user-attachments/assets/9157b099-7876-405c-a33a-410acc6fd68d" />
 
 
 
-###This is the Board, where all the relevant bugs, tasks and feedbacks are displayed : 
+### This is the Board, where all the relevant bugs, tasks and feedbacks are displayed : 
 <img width="1706" height="1021" alt="Board" src="https://github.com/user-attachments/assets/584727f0-ee78-4385-a163-ea1c2258378e" />
 
 
