@@ -1,8 +1,8 @@
-### Showcase for Giftogames Workflow
+# Showcase for Giftogames Workflow
 
 I built this workflow and bug template from scratch for Giftogames’ QA pipeline. I've mainly used Jira and Google Sheet to set it up.
 
-# Workflow 
+### Workflow 
 
 Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback and tasks that the developers use on their day to day tasks.
 
@@ -10,7 +10,7 @@ Here is the Workflow for Giftogames, I've set up a workflow for bugs, feedback a
 
 
 
-# Board
+### Board
 
 This is the Board, where all the relevant bugs, tasks and feedbacks are displayed : 
 
@@ -24,14 +24,14 @@ You can use filters to only show bugs, tasks or feedbacks :
 
 
 
-# Bug Fields
+### Bug Fields
 
 All the different fields the QA testers have to fill to enter a bug : 
 
 ![Fields](https://github.com/user-attachments/assets/5f4d05c3-6cae-43b4-ac6d-3a0456237728)
 
 
-# Bug Template 
+### Bug Template 
 
 A detailed template for entering bugs, useful for new testers that might join the project later as we scaled it up : 
 
@@ -45,7 +45,7 @@ A detailed template for entering bugs, useful for new testers that might join th
 
 <img width="1183" height="1033" alt="Template3 png" src="https://github.com/user-attachments/assets/8a9303db-df81-4213-b5c1-b052a08c2409" />
 
-# Smoketest Template
+### Smoketest Template
 
 The Smoketest template I have build for testing the build before pushing a major update. Every single action you can do in the game is listed with a status, then if failed a bug is added on excel that redirects to the Jira for clear visibility. Here is some part of the smoke test (It would be too long to list everything) : 
 
