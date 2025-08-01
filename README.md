@@ -1,4 +1,4 @@
-# My research for a quick look at QA Automation testing a Website
+# My research for a quick look at QA Automation to test market.voxies.io
 
 ## Step 1 : Getting general Knowledge about how QA Automation work and the Softwares needed
 
