@@ -8,7 +8,7 @@ I spent the first few minutes on Google and GPT trying to find what I would need
 
 ## Step 2 : Deciding and identifying what I would test 
 
-After everything was installed, I decided to focus on testing the header buttons of the website. I wanted to test the buttons straight away but ran into some errors (Playwright couldn't find them). I needed to make sure they are able to be seen by the script first so I created a js file called "Button-Test" then with the help of some research and GPT producde a script to identify all the buttons in the header. Once the result came in I compared it to the actual website to see if it matcthed, and it did. 
+After everything was installed, I decided to focus on testing the header buttons of the website. I wanted to test the buttons straight away but ran into some errors (Playwright couldn't find them). I needed to make sure they are able to be seen by the script first so I created a js file called "Button-Test" then with the help of some research and GPT produced a script to identify all the buttons in the header. Once the result came in I compared it to the actual website to see if it matcthed, and it did. 
 
 <img width="1142" height="607" alt="2025-08-01 17_26_45-C__Users_sacha_voxies-automation_button test js - Notepad++" src="https://github.com/user-attachments/assets/6aa2f1df-cb28-4f14-bcba-4823198125ac" />
 <img width="1920" height="993" alt="2025-08-01 17_47_06-Editing SachaTestShowcase_README md at main · SachaBenjamin_SachaTestShowcase - " src="https://github.com/user-attachments/assets/5419f9b9-84fe-48ed-98da-24c60ce4bc5a" />
