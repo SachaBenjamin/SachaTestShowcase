@@ -27,7 +27,7 @@ The next step would be to test every single buttons of the website, the filters 
 
 I think we can even query the hash directly using a library like ethers.js. The script can compare the sender and receive, make sure everything matches then validate the transaction. 
 
-Let me know if you want anything else! :)
+Send me an email if you want anything else researched! :)
 
 <br>
 <br>
