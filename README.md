@@ -22,7 +22,7 @@ With all the buttons correctly identifiable by Playwright, it was time to test t
 
 ## Next Steps 
 
-The next step would be to test every single buttons of the website, the filters etc. Then it would involve testing logins and blockchain purchases. I've research it and it is possible to use Automation to run test using test wallets. It would simulate a user making a purchase, then the script is able to navigate Polygonscan, enter the transaction hash and verify the result.
+The next step would be to test every single buttons of the website, the filters etc. (Basically every interactive elements) Then it would involve testing logins and blockchain purchases. I've research it and it is possible to use Automation to run test using test wallets. It would simulate a user making a purchase, then the script is able to navigate Polygonscan, enter the transaction hash and verify the result. I think we can even query the hash directly using a library like ethers.js. The script can compare the sender and receive, make sure everything matches then validate the transaction. 
 
 
 
